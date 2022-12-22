@@ -1,6 +1,6 @@
 ## MES.C (mesconsulting.id)
 
-![MES.C](./logo.png)
+[![](./logo.png)](#)
 
 ### About US
 
